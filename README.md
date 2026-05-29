@@ -1,4 +1,5 @@
 Kroger Marketing Spend Analysis
+
 Python · pandas · Matplotlib · Seaborn · EDA
 End-to-end exploratory data analysis on Kroger's real marketing dataset — uncovering spend patterns across tactics, platforms, campaigns, and time.
 
