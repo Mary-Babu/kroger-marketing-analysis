@@ -2,10 +2,10 @@
 
 Python · SQL · Databricks · pandas · Matplotlib · Seaborn · EDA
 
-End-to-end exploratory data analysis on Kroger's real marketing dataset — uncovering spend patterns across tactics, platforms, campaigns, and time.
+End-to-end exploratory data analysis on a public Kroger marketing dataset — uncovering spend patterns across tactics, platforms, campaigns, and time.
 
 Business Problem
-Kroger's marketing team needed to understand how spend was actually distributed across tactics, platforms, and campaigns, and whether that allocation still made sense or was just "what we did last year."
+A marketing team in this position needs to understand how spend is actually distributed across tactics, platforms, and campaigns, and whether that allocation still makes sense or is just "what we did last year."
 
 Questions I Asked
 
